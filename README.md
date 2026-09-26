@@ -1,0 +1,1 @@
+Una vez iniciado el programa con IntelliJ, se deberá seguir las instrucciones indicadas por consola de dicho programa para poder crear eventos, actividades, registrar alumnos al sistema e inscribirlos a las activadades.
